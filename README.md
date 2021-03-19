@@ -13,8 +13,8 @@ Sou um aluno do último ano do Bacharelado em Ciência da Computação do IF-Muz
 
 ### Algumas coisas sobre mim:
 
-- 🛠 &nbsp; Atualmente estou trabalhando com Flutter, HTML, <br /> CSS e JavaSCRIPT.
-- 🚀 &nbsp; Atualmente estou apredendo Desenvolvimento Mobile.
+- 🛠 &nbsp; Programando em Flutter, HTML, <br /> CSS e JavaSCRIPT.
+- 🚀 &nbsp; Apredendo Desenvolvimento Mobile.
 - 👾 &nbsp; Odeio Java.
 - 📫 &nbsp; Para contato: viniciusvsom@gmail.com.
 
