@@ -1,4 +1,7 @@
 ## Hey 👋, Sou Vinícius Silva!
+
+### Para contatos:
+
 [![Whatsapp Badge](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send?phone=5535997248157&text=Ol%C3%A1%2C%20Vin%C3%ADcius!)
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/viniciussillva/)
 [![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/viniciux.silva/)
@@ -6,7 +9,7 @@
 
 
 
-### Feliz em vê você aqui &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=viniciusiIva.viniciusiIva&style=flat-square&color=0088cc)
+### Obrigado por visitar meu perfil &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=viniciusiIva.viniciusiIva&style=flat-square&color=0088cc)
 
 Sou aluno do último ano em Ciência da Computação do IF-Muzambinho. Sempre disposto a aprender e trabalhar em várias tecnologias e domínios. Adoro explorar novas linguagens de programação  e aproveitá-las para resolver problemas do cotidiano. Atualmente estou trabalhando em Desenvolvimento Web e apredendo Flutter.
 
@@ -17,7 +20,6 @@ Sou aluno do último ano em Ciência da Computação do IF-Muzambinho. Sempre di
 - 🛠 &nbsp; Programando em Flutter, HTML, CSS e JavaSCRIPT.
 - 🚀 &nbsp; Apredendo Desenvolvimento Mobile.
 - 👾 &nbsp; Odeio Java.
-- 📫 &nbsp; Para contato: viniciusvsom@gmail.com.
 
 
 ### Coisas favoritas:
