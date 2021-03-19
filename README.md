@@ -6,7 +6,7 @@
 
 ### Feliz em vê você aqui &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=viniciusiIva.viniciusiIva&style=flat-square&color=0088cc)
 
-Sou aluno do último ano do Bacharelado em Ciência da Computação do IF-Muzambinho. Sempre disposto a aprender e trabalhar em várias tecnologias e domínios. Adoro explorar novas linguagens de programação  e aproveitá-las para resolver problemas do cotidiano. Atualmente estou trabalhando em Desenvolvimento Web e apredendo Flutter.
+Sou aluno do último ano em Ciência da Computação do IF-Muzambinho. Sempre disposto a aprender e trabalhar em várias tecnologias e domínios. Adoro explorar novas linguagens de programação  e aproveitá-las para resolver problemas do cotidiano. Atualmente estou trabalhando em Desenvolvimento Web e apredendo Flutter.
 
 
 
