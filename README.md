@@ -13,7 +13,7 @@ Sou um aluno do último ano do Bacharelado em Ciência da Computação do IF-Muz
 
 ### Algumas coisas sobre mim:
 
-- 🛠 &nbsp; Programando em Flutter, HTML, <br /> CSS e JavaSCRIPT.
+- 🛠 &nbsp; Programando em Flutter, HTML, CSS e JavaSCRIPT.
 - 🚀 &nbsp; Apredendo Desenvolvimento Mobile.
 - 👾 &nbsp; Odeio Java.
 - 📫 &nbsp; Para contato: viniciusvsom@gmail.com.
@@ -28,15 +28,9 @@ Sou um aluno do último ano do Bacharelado em Ciência da Computação do IF-Muz
 ### Linguagens e Ferramentas:
 
 <code><img height="27" src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" alt="Flutter"></code>
-<code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="python"></code>
+<code><img height="27" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain.svg" alt="HTML"></code>
+<code><img height="27" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain.svg" alt="CSS"></code>
 <code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="javascript"></code>
-<code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" alt="nodejs"></code>
-<code><img height="27" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="expressjs"></code>
-<code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" alt="react"></code>
-<code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/graphql/graphql.png" alt="graphql"></code>
-<code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" alt="sql"></code>
-<code><img height="27" src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSTTzPAw-55ssm1Im594xYZ9eRQu2JylrkYLg&usqp=CAU" alt="mongodb"></code>
-<code><img height="27" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git"></code>
 <code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" alt="terminal"></code>
 
 <!--
