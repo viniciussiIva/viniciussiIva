@@ -59,7 +59,7 @@ Sou aluno do último ano em Ciência da Computação do IF-Muzambinho. Sempre di
  
 <details>	
   <br />
-  <summary><b>⚙️ O que uso pra codar</b></summary>
+  <summary><b>⚙️ Setup</b></summary>
   	<ul>
   	    <li><b>OS:</b> Windows 10</li>
   	    <li><b>Navegador: </b> Google Chrome</li>
