@@ -17,7 +17,7 @@ Sou aluno do último ano em Ciência da Computação do IF-Muzambinho. Sempre di
 
 ### Algumas coisas sobre mim:
 
-- 🛠 &nbsp; Programando em Flutter, HTML, CSS e JavaSCRIPT.
+- 🛠 &nbsp; Programando em Flutter, HTML, CSS e JavaSCRIPT, PHP.
 - 🚀 &nbsp; Aprendendo Desenvolvimento Mobile.
 - :worried: &nbsp; Odeio Java.
 
