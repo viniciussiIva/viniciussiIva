@@ -1,16 +1,16 @@
-### Hi there 👋
+### Olá 👋
 
-<!--
-**viniciussiIva/viniciussiIva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#####  Atualmente estou atuando como Desenvolvedor Web, utilizando tecnologias como PHP, Codegniter, Bootstrap, HTML, CSS e JavaScript e outras tecnologias. Meu foco sempre foi o Front-End, assim sempre busco me aprofundar e melhorar sempre nessa stack.
 
-Here are some ideas to get you started:
+##### ATUALMENTE
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- ✨ Estudando React com Next.js
+- 🌱 Projeto pessoais
+
+##### BIO
+
+- 🏢 Atualmente trabalho no [Grupo Adriano Cobuccio](https://grupoadrianocobuccio.com.br/)
+- ⚙️ Eu uso diariamente: `.php`, `.js`, `.html`, `.css`, `.react`, `.netxjs`, `.mysql`,`.sqlserver`
+- 🌍 Sou mais ativo na comunidade do **Front-End**
+- 🌱 Aprendendo sempre sobre **Open Source**
+- 🐺 Curiosidade: sou um grande fã de The Witcher
