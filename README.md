@@ -10,7 +10,7 @@
 ##### BIO
 
 - 🏢 Atualmente trabalho no [Grupo Adriano Cobuccio](https://grupoadrianocobuccio.com.br/)
-- ⚙️ Eu uso diariamente: `.php`, `.js`, `.html`, `.css`, `.react`, `.netxjs`, `.mysql`,`.sqlserver`
+- ⚙️ Eu uso diariamente: `.php`, `.js`, `.html`, `.css`, `.react`, `.netxjs`, `.mysql`,`.sqlserver`, `.git`
 - 🌍 Sou mais ativo na comunidade do **Front-End**
 - 🌱 Aprendendo sempre sobre **Open Source**
 - 🐺 Curiosidade: sou um grande fã de The Witcher
