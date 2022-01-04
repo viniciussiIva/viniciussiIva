@@ -4,7 +4,7 @@
 
 ##### ATUALMENTE
 
-- ✨ Estudando React com Next.js
+- ✨ Aprendendo React com Next.js
 - 🌱 Projeto pessoais
 
 ##### BIO
