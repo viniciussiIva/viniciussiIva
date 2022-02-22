@@ -4,13 +4,13 @@
 
 ##### ATUALMENTE
 
-- ✨ Aprendendo React com Next.js
+- ✨ Aprendendo GO
 - 🌱 Projeto pessoais
 
 ##### BIO
 
 - 🏢 Atualmente trabalho no [Grupo Adriano Cobuccio](https://grupoadrianocobuccio.com.br/)
-- ⚙️ Eu uso diariamente: `.php`, `.js`, `.html`, `.css`,`.mysql`,`.SQLserver`, `.git`, `.Azure`
+- ⚙️ Eu uso diariamente: `.php`, `.js`, `.html`, `.css`,`.mysql`,`.SQLserver`, `.git`, `.Azure`, `.GO`
 - 🌍 Sou mais ativo na comunidade do **Front-End**
 - 🌱 Aprendendo sempre sobre **Open Source**
 - 🐺 Curiosidade: sou um grande fã de The Witcher
